@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "167151045102",
+    "firebase_url": "https://capalinochat.firebaseio.com",
+    "project_id": "capalinochat",
+    "storage_bucket": "capalinochat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167151045102:android:f419d86c9e399093",
+        "android_client_info": {
+          "package_name": "cds.fcmdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167151045102-j1oei5hgjfr1p2k0t2pcf27aimh38ph4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9VCiFqkFMKGNZ25hQ5tc65U76qeQxuBI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
